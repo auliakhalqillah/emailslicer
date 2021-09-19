@@ -17,3 +17,6 @@
    2. if _email_[i] is not equal to '@', then continue looping process
 4. Print the output: _username_ and _domain_
 
+## Contact
+:email: auliakhalqillah.mail@gmail.com
+
